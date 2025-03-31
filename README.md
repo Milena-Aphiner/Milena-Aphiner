@@ -1,4 +1,4 @@
-- 👋 Oi, me chamo Milena Aphiner, tenho 23 anos e sou do interior de São Paulo
+- 👋 Oi, me chamo Milena Aphiner, tenho 24 anos e sou do interior de São Paulo
 - 👀 Estou interessada em desenvolvimento Front-end 
 - 🌱 Atualmente estou cursando Bacharelado em Tecnologia da Informação pela UNIVESP
 - 💞️ Estou dando meus primeiros passos em linguagens de programação e de marcação
